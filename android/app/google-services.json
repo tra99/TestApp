@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458487135243",
+    "project_id": "reanai",
+    "storage_bucket": "reanai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458487135243:android:93e2c7671bcce1ac019b0e",
+        "android_client_info": {
+          "package_name": "com.example.rean_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458487135243-4p9dj3rtuacf6cd75l3kco5p5baraca2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3UL2VIilCGvfMBq45WL7Wg4_3gLtK_ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458487135243-4p9dj3rtuacf6cd75l3kco5p5baraca2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
